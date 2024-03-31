@@ -48,7 +48,7 @@
 ## Connect with me:
 <p align="left">
     
-<a href = "https://linktr.ee/sandip_o1" alt="Linktree"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+<a href = "https://linktr.ee/Sandip_01" alt="Linktree"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 <a href = "https://facebook.com/Sandip.Official01" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/asandip01/" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/@NPCREATIVEEDGE" alt="Youtube"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
