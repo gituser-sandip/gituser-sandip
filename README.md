@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gituser-sandip&show_icons=true&locale=en" alt="gituser-sandip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gituser-sandip&" alt="gituser-sandip" /></p>
+
+<a href="https://app.daily.dev/sandipmeche"><img src="https://api.daily.dev/devcards/v2/vQuikVl2ViDlyzwfCR0KW.png?type=default&r=hp6" width="356" alt="Sandip Meche's Dev Card"/></a>
