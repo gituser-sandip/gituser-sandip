@@ -2,14 +2,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandeep Meche.</h1>
 <h3 align="center">I ❤ Coding.</h3>
 <h3 align="center">As a tech enthusiast from Jhapa,Nepal.</h3>
-<h3 align="center">I am deeply interested in Web Technology and Graphics Designing.</h3>
+<h3 align="center">I am deeply interested in Web Technology and AI.</h3>
 <br>
 
 ## 🙋‍♂️ About Me
 <img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
-- 📖 I’m currently studying **+2**
-- 🌱 I’m currently learning **python, javascript**
+- 📖 I’m currently studying **Bachelor**
+- 🌱 I’m currently learning **python and java**
 
 - 📫 How to reach me **sandipmeche6@gmail.com**
 
