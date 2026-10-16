@@ -1,65 +1,102 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Sandeep's GitHub Profile Banner" src="light.svg" width="100%">
-  </picture>
+
+<img src="assets/sandeep-hero.svg" alt="Sandeep Meche — AI/ML Engineer and Frontend Developer" width="100%">
+
+**AI/ML Engineer · Frontend Developer**
+
+[Portfolio](https://www.sandeepmeche.com.np) · [GitHub](https://github.com/gituser-sandip) · [Email](mailto:sandipmeche6@gmail.com) · [daily.dev](https://app.daily.dev/sandipmeche)
+
 </div>
 
-## 🙋‍♂️ About Me
-<img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
+---
 
-- 📖 I’m currently studying **Bachelor**
-- 🌱 I’m currently learning **python and java**
+## About
 
-- 📫 How to reach me **sandipmeche6@gmail.com**
+I’m Sandeep Meche, studying **Computing with Artificial Intelligence at Islington College**. I’m interested in building thoughtful web experiences and exploring practical AI-powered products—from polished interfaces to the systems behind them.
 
-- ⚡ Fun fact **You funny I funny😜**
+I enjoy working across frontend development, API integrations, and AI-enabled application workflows. I aim to make software useful, clear, and carefully crafted.
 
-<br><br><br>
+## Selected work
 
-## 🚀 Languages and Tools:
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gituser-sandip/Times">Times Watch Store</a></h3>
+      A watch-shopping experience with product browsing, filtering, saved items, comparison, cart interactions, checkout screens, and Laravel API integration.
+      <br><br><sub>React · Vite · Tailwind CSS · Laravel API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gituser-sandip/MindWell">MindWell</a></h3>
+      A digital wellbeing project. Visit the repository for the current implementation and technical details.
+      <br><br><sub>Application development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gituser-sandip/hyderali-advisory-protfolio">Hyder Ali Advisory Portfolio</a></h3>
+      A portfolio website project for an advisory brand.
+      <br><br><sub>Web development · Interface design</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gituser-sandip/n8n-automation-console">n8n Automation Console</a></h3>
+      An automation-focused project; the repository is the source of truth for its current features.
+      <br><br><sub>Workflow automation</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="">
-  <a href="https://app.daily.dev/sandipmeche"><img src="https://api.daily.dev/devcards/v2/vQuikVl2ViDlyzwfCR0KW.png?type=default&r=hp6" width="356" alt="Sandip Meche's Dev Card"/></a>
+Explore more on my [portfolio](https://www.sandeepmeche.com.np).
+
+## Certifications & learning
+
+Credentials listed in my previously supplied CV:
+
+- AWS Machine Learning Foundation
+- AWS Machine Learning for Natural Language Processing
+- AWS Data Engineering
+- AWS Cloud Foundation
+- Web Development Diploma
+- Advanced Excel
+- HTML Certification
+- Basic Computer
+
+## Technical toolkit
+
+**Frontend**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+
+**AI & integration**  
+Python · OpenRouter AI · REST APIs
+
+**Backend & data**  
+PHP · MySQL · Laravel API integration · Upstash Redis
+
+**Tools & deployment**  
+Git · GitHub · Vercel · Cloudflare Turnstile · Vite
+
+Technologies are grouped from my profile and project context; this list is not a claim of equal proficiency across every tool.
+
+## Contribution activity
+
+<p align="center">
+  <a href="https://github.com/gituser-sandip">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gituser-sandip&bg_color=10070c&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=451126&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph generated from GitHub activity" width="100%">
+  </a>
 </p>
-<p>
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=gituser-sandip&show_icons=true&locale=en&layout=compact" alt="gituser-sandip" />
-</p>
-<p align="">
-    <a href="https://github.com/gituser-sandip/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gituser-sandip streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gituser-sandip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 My Github Stats
+The graph is provided by a third-party service and may be unavailable. Your native contribution history is always available on [GitHub](https://github.com/gituser-sandip). Profile-statistics cards are intentionally omitted rather than display potentially unreliable metrics.
 
-  <br/>
-    <a href="https://github.com/gituser-sandip/github-readme-stats"><img alt="gituser-sandip Github Stats" src="https://github-readme-stats.vercel.app/api?username=gituser-sandip&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gituser-sandip/github-readme-stats"><img alt="gituser-sandip Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gituser-sandip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## Elsewhere
 
-  
-<br/>
-<br/>
+- **Portfolio:** [sandeepmeche.com.np](https://www.sandeepmeche.com.np)
+- **GitHub:** [@gituser-sandip](https://github.com/gituser-sandip)
+- **daily.dev:** [sandipmeche](https://app.daily.dev/sandipmeche)
+- **Email:** [sandipmeche6@gmail.com](mailto:sandipmeche6@gmail.com)
+- **Linktree:** [Sandip_01](https://linktr.ee/Sandip_01)
+- **Instagram:** [@asandip01](https://www.instagram.com/asandip01/)
+- **YouTube:** [NPCREATIVEEDGE](https://www.youtube.com/@NPCREATIVEEDGE)
 
-
-## Connect with me:
-<p align="left">
-    
-<a href = "https://linktr.ee/Sandip_01" alt="Linktree"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
-<a href = "https://facebook.com/Sandip.Official01" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/asandip01/" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/@NPCREATIVEEDGE" alt="Youtube"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gituser-sandip">
-</a>
-<a href="https://github.com/gituser-sandip?tab=followers"><img src="https://img.shields.io/github/followers/gituser-sandip?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
+<div align="center">
+  <img src="assets/sandeep-footer.svg" alt="Minimal animated burgundy line motif" width="100%">
+  <sub>Build with curiosity. Ship with care.</sub>
+</div>
