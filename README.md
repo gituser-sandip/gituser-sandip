@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/inferno-hero.svg" alt="Sandeep Meche — animated dark burgundy developer profile" width="100%">
+<img src="assets/profile-card.svg" alt="Sandeep Meche" width="100%">
 
 <table width="100%" bgcolor="#10070C">
 <tr><td align="center" bgcolor="#190811">
