@@ -25,9 +25,8 @@
 <img src="assets/section-projects.svg" alt="Animated selected work section header" width="100%">
 
 <div align="center">
-<a href="https://github.com/gituser-sandip/Times"><img src="assets/project-times.svg" alt="Times Watch Store: watch-shopping experience built with React, Vite, Tailwind CSS and Laravel API" width="48.5%"></a>
-<a href="https://github.com/gituser-sandip/MindWell"><img src="assets/project-mindwell.svg" alt="MindWell: digital wellbeing project" width="48.5%"></a><br>
-<a href="https://github.com/gituser-sandip/hyderali-advisory-protfolio"><img src="assets/project-hyderali.svg" alt="Hyder Ali Advisory Portfolio: portfolio website for an advisory brand" width="48.5%"></a>
+<a href="https://github.com/gituser-sandip/MindWell"><img src="assets/project-mindwell.svg" alt="MindWell: digital wellbeing project" width="48.5%"></a>
+<a href="https://github.com/gituser-sandip/hyderali-advisory-protfolio"><img src="assets/project-hyderali.svg" alt="Hyder Ali Advisory Portfolio: portfolio website for an advisory brand" width="48.5%"></a><br>
 <a href="https://github.com/gituser-sandip/n8n-automation-console"><img src="assets/project-n8n.svg" alt="n8n Automation Console: workflow automation project" width="48.5%"></a>
 </div>
 
@@ -47,13 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gituser-sandip&layout=compact&hide_border=true&bg_color=100805&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages from public repositories" width="100%">
 
 </td></tr>
-<tr><td colspan="2" bgcolor="#190811" align="center">
-
-### Contribution calendar
-
-<img src="https://ghchart.rshah.org/C77B9B/gituser-sandip" alt="GitHub contributions over the past year" width="100%">
-
-</td></tr></table>
+</table>
 
 <table width="100%" bgcolor="#190811">
 <tr><td bgcolor="#190811">
