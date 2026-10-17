@@ -51,7 +51,7 @@
 
 ### Contribution calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gituser-sandip&bg_color=100805&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=451126&hide_border=true&custom_title=A%20year%20of%20building" alt="Contribution activity graph" width="100%">
+<img src="https://ghchart.rshah.org/C77B9B/gituser-sandip" alt="GitHub contributions over the past year" width="100%">
 
 </td></tr></table>
 
