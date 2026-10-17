@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" width="360" height="96" role="img" aria-labelledby="t d">
+<title id="t">YouTube</title><desc id="d">NPCREATIVEEDGE</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="0.7" stop-color="#120b14"/><stop offset="1" stop-color="#220f1d"/></linearGradient>
+<linearGradient id="runner" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e57fa8" stop-opacity="0"/><stop offset="1" stop-color="#ffc2d8"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e57fa8" stop-opacity="0"/><stop offset="0.5" stop-color="#e57fa8" stop-opacity="0.16"/><stop offset="1" stop-color="#e57fa8" stop-opacity="0"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffc2d8"/><stop offset="1" stop-color="#e57fa8" stop-opacity="0.2"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e57fa8" stroke-opacity="0.06"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="32 32" dur="14s" repeatCount="indefinite"/></pattern>
+<clipPath id="card"><rect x="4" y="4" width="352" height="88" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect width="360" height="96" fill="url(#panel)"/><rect width="360" height="96" fill="url(#grid)"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9199999999999999s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.6s" begin="0.9199999999999999s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/><circle cx="50" cy="48" r="22" fill="#2a1020" stroke="#e57fa8" stroke-opacity="0.6"/><circle cx="50" cy="48" r="6" fill="#f08db4"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="2.4000000000000004s" repeatCount="indefinite"/></circle><circle cx="50" cy="48" r="14" fill="none" stroke="#e57fa8" stroke-opacity="0.4" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0 50 48" to="360 50 48" dur="14s" repeatCount="indefinite"/></circle><text x="88" y="42" font-size="12" font-weight="800" fill="#e57fa8" letter-spacing="2.2">YOUTUBE</text><text x="88" y="66" font-size="18" font-weight="700" fill="#f6eaf1">NPCREATIVEEDGE</text></g>
+<g stroke="#ffc2d8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M328 56 L340 44 M332 44 H340 V52"/><animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="2.6s" begin="2.4000000000000004s" repeatCount="indefinite"/></g>
+<rect x="-160" y="0" width="140" height="96" fill="url(#sweep)"><animate attributeName="x" from="-160" to="380" dur="6s" begin="9.2s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="4" y="4" width="352" height="88" rx="18" fill="none" stroke="#e57fa8" stroke-opacity="0.28" stroke-width="1.5"/>
+<rect x="4" y="4" width="352" height="88" rx="18" fill="none" stroke="url(#runner)" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="12 88"><animate attributeName="stroke-dashoffset" from="-84" to="-184" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
